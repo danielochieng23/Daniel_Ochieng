@@ -1,8 +1,8 @@
-Usage
+#Usage
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/caesar-cipher.git
+#git clone https://github.com/your-username/caesar-cipher.git
 Navigate to the project directory:
 bash
 Copy code
